@@ -12,7 +12,7 @@ Some of the projects that I have performed are exposed in the following list:
 
 ## Artificial Intelligence projects
 
-- ECGs peaks detection and arrythmia classification with biomedical signals.
+- [ECGs peaks detection and arrythmia classification](https://github.com/eduruiz00/ecgs-classifier).
 - [Pneumonia detection from Chest X-Rays images.](https://github.com/eduruiz00/ai-for-healthcare-nanodegree/tree/main/Pneumonia%20Detection%20from%20Chest%20X-Rays)
 - [Patient selection for Diabetes Drug Testing.](https://github.com/eduruiz00/ai-for-healthcare-nanodegree/tree/main/Patient%20Selection%20for%20Diabetes%20Drug%20Testing)
 - [Motion compensated pulse rate estimation.](https://github.com/eduruiz00/ai-for-healthcare-nanodegree/tree/main/Motion%20Compensated%20Pulse%20Rate%20Estimation)
