@@ -16,12 +16,12 @@ Some of the projects that I have performed are exposed in the following list:
 - [Pneumonia detection from Chest X-Rays images.](https://github.com/eduruiz00/ai-for-healthcare-nanodegree/tree/main/Pneumonia%20Detection%20from%20Chest%20X-Rays)
 - [Patient selection for Diabetes Drug Testing.](https://github.com/eduruiz00/ai-for-healthcare-nanodegree/tree/main/Patient%20Selection%20for%20Diabetes%20Drug%20Testing)
 - [Motion compensated pulse rate estimation.](https://github.com/eduruiz00/ai-for-healthcare-nanodegree/tree/main/Motion%20Compensated%20Pulse%20Rate%20Estimation)
-- Hipocampal volume quantification in Alzheimer's disease.
-- Classification of aminoacids for diagnosing lung. (Small project)
+- [Hipocampal volume quantification in Alzheimer's disease.](https://github.com/eduruiz00/ai-for-healthcare-nanodegree/tree/main/Hippocampal%20Volume%20Quantification%20in%20Alzheimer's%20progression)
+- [Classification of aminoacids for diagnosing lung. (Small project)](https://github.com/eduruiz00/university-projects/tree/main/Aminoacids%20classification)
 
 ## Modelling projects
 - COVID-19 curve prediction based on SIR and SEIR models.
-- Kinetic modelling of hemodialysis. (Small project)
+- [Kinetic modelling of hemodialysis. (Small project)](https://github.com/eduruiz00/university-projects/blob/main/Modeling/hemodyalisis.ipynb)
 - SIR models of epidemics. (Small project)
 
 ## Software projects
