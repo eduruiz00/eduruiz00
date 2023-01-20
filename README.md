@@ -1,8 +1,10 @@
-### Hi there, I'm Edu Ruiz ([eduruiz00](https://github.com/eduruiz00)) 👋
+### Hi there, I'm Edu Ruiz ([eduruiz00](https://edusoftdev.com/)) 👋
 
 
 - 👀 I’m interested in Data Science and Artificial Intelligence.
-- 🌱 I’m currently studying BSc in Biomedical Engineering and enhancing my knowladge self-taught with online courses.
+- 🌱 I’m currently studying MSc in Artificial Intelligence and enhancing my knowladge self-taught with online courses.
+- 🔎 I’m looking to keep learning to be valuable in an enterprise.
+- 💻 Visit my [website](https://edusoftdev.com/).
 - 🔎 I’m looking to keep learning to be valuable in an enterprise.
 - 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/eduard-ruiz-munne/).
 
