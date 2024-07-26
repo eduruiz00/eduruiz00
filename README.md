@@ -1,10 +1,28 @@
-### Hi there, I'm Edu Ruiz ([eduruiz00](https://edusoftdev.com/)) 👋
-
+### Hi there, I'm Eduard (eduruiz00) 👋
 
 - 👀 I’m interested in Data Science and Artificial Intelligence.
-- 🌱 I’m a MSc in Artificial Intelligence graduate.
-- 🔎 I’m looking to make an impact in people's life using technology
-- 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/eduard-ruiz-munne/).
+- 🏛️ I graduated in Biomedical Engineering.
+- 🌱 I have a Master's degree in Artificial Intelligence.
+- 🔎 I’m passionate about making an impact on people's lives using technology.
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/eduard-ruiz-munne/).
+
+## Medical Projects
+
+- **Hybrid Method for Deformable Image Registration**: Developed an innovative synergy between Evolutionary Algorithms and Deep Learning Methods for Multi-Objective Deformable Image Registration in cervical cancer radiation therapy planning.
+- [**Implementation and Evaluation of the Noise2Inverse Model**](https://github.com/Will-Ruesga/Noise2Inverse): Implemented the Noise2Inverse model from scratch, focusing on noise removal for 3D CT-scan images, and evaluated its performance under different conditions.
+- [**ECG Peak Detection and Arrhythmia Classification**](https://github.com/eduruiz00/ecgs-classifier): Developed a basic ECG classifier with a peak detection algorithm during the 2nd year of my Bachelor's.
+- [**AI for Healthcare Nanodegree Projects**](https://github.com/eduruiz00/ai-for-healthcare-nanodegree): Various projects completed as part of an AI for Healthcare nanodegree program.
+- [**Dedalus Datathon Project**](https://github.com/eduruiz00/dedalus-datathon): Created an AI assistant to identify service coverage for patients during their first ICU visit.
+
+## Other Projects
+
+- [**Trajectory RetNet**](https://github.com/eduruiz00/trajectory-retnet): Implemented Retentive Networks to improve the Trajectory Transformer inference time.
+- [**Self-Driving Car and Obstacle Avoidance**](https://github.com/eduruiz00/multi_car_racing_mgaia): Developed multiple RL algorithms to create an agent capable of driving in a racing environment while avoiding obstacles.
+- [**Minimum Spanning Tree**](https://github.com/eduruiz00/hpc-a2): Explored High Performance Computing with parallel computation using MPI and C++.
+- [**Recipe Generator with Computer Vision**](https://github.com/eduruiz00/mms-project): Generated recipes based on pictures of different ingredients, utilizing computer vision and generative AI models in Python.
+- [**Formula 1 Tyre Degradation Prediction**](https://github.com/eduruiz00/f1-tyres): Conducted EDA and developed a simple ML algorithm to predict tyre degradation in Formula 1 races based on free practices and previous race data.
+
+To access other projects, please contact me at eduardrm2000@gmail.com.
 
 ## 🧰 Languages and tools
 
