@@ -2,10 +2,8 @@
 
 
 - 👀 I’m interested in Data Science and Artificial Intelligence.
-- 🌱 I’m currently studying MSc in Artificial Intelligence and enhancing my knowladge self-taught with online courses.
-- 🔎 I’m looking to keep learning to be valuable in an enterprise.
-- 💻 Visit my [website](https://edusoftdev.com/).
-- 🔎 I’m looking to keep learning to be valuable in an enterprise.
+- 🌱 I’m a MSc in Artificial Intelligence graduate.
+- 🔎 I’m looking to make an impact in people's life using technology
 - 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/eduard-ruiz-munne/).
 
 ## 🧰 Languages and tools
